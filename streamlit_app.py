@@ -16,7 +16,7 @@ import streamlit as st
 #  Page config & heading
 # -----------------------------------------------------------
 st.set_page_config(page_title="Transaction Tagger", layout="wide")
-st.title("🔖 Tag your credit-card transactions")
+st.title("🔖 Tag your credit-card transaction s")
 
 # -----------------------------------------------------------
 #  Global stop-word set (extend as you like)
